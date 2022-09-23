@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "public-files",
@@ -414,6 +414,11 @@
           "id": "RYy_-WNrjO8dCl",
           "name": "PlasmicHead",
           "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "_Tz7WuQ-Ti",
+          "name": "Fetcher",
+          "componentImportPath": "@plasmicapp/data-sources"
         }
       ]
     }
